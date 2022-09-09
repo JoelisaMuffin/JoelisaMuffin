@@ -11,3 +11,6 @@ Hey everyone, I am Joel Varughese and I am a programmer who has experience in th
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
+<h2>Stats</h2>
+
+[![Joel's stats](https://github-readme-stats.vercel.app/api?username=JoelisaMuffin)](https://github.com/JoelisaMuffin/github-readme-stats)
